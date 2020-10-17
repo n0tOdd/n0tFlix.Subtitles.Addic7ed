@@ -18,8 +18,4 @@
 
   </ItemGroup>
 
-  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="xcopy &quot;$(TargetPath)&quot; &quot;C:\ProgramData\Jellyfin\Server\plugins&quot; /y" />
-  </Target>
-
 </Project>

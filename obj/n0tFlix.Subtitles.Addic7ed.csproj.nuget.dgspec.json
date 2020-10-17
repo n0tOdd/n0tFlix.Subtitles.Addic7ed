@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oddos\\source\\repos\\n0tFlix\\Subtitles\\Jellyfin.Plugin.Addic7ed\\n0tFlix.Subtitles.Addic7ed.csproj": {}
+    "C:\\Users\\oddos\\source\\repos\\n0tFlix\\Subtitles\\Jellyfin.Plugin.Addic7ed\\Addic7ed-subtitles\\n0tFlix.Subtitles.Addic7ed.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oddos\\source\\repos\\n0tFlix\\Subtitles\\Jellyfin.Plugin.Addic7ed\\n0tFlix.Subtitles.Addic7ed.csproj": {
+    "C:\\Users\\oddos\\source\\repos\\n0tFlix\\Subtitles\\Jellyfin.Plugin.Addic7ed\\Addic7ed-subtitles\\n0tFlix.Subtitles.Addic7ed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oddos\\source\\repos\\n0tFlix\\Subtitles\\Jellyfin.Plugin.Addic7ed\\n0tFlix.Subtitles.Addic7ed.csproj",
+        "projectUniqueName": "C:\\Users\\oddos\\source\\repos\\n0tFlix\\Subtitles\\Jellyfin.Plugin.Addic7ed\\Addic7ed-subtitles\\n0tFlix.Subtitles.Addic7ed.csproj",
         "projectName": "n0tFlix.Subtitles.Addic7ed",
-        "projectPath": "C:\\Users\\oddos\\source\\repos\\n0tFlix\\Subtitles\\Jellyfin.Plugin.Addic7ed\\n0tFlix.Subtitles.Addic7ed.csproj",
+        "projectPath": "C:\\Users\\oddos\\source\\repos\\n0tFlix\\Subtitles\\Jellyfin.Plugin.Addic7ed\\Addic7ed-subtitles\\n0tFlix.Subtitles.Addic7ed.csproj",
         "packagesPath": "C:\\Users\\oddos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oddos\\source\\repos\\n0tFlix\\Subtitles\\Jellyfin.Plugin.Addic7ed\\obj\\",
+        "outputPath": "C:\\Users\\oddos\\source\\repos\\n0tFlix\\Subtitles\\Jellyfin.Plugin.Addic7ed\\Addic7ed-subtitles\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
