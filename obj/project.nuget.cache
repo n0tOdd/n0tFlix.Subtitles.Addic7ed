@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0yksTB+ymCGzktBjYyp9NS12uLhDxtK8eOxwuUpwOZTibCDFVCyurhNXLRA4Hq/VZ2nImG6ZrnUkfqPMdtbkNQ==",
+  "dgSpecHash": "urOh25L/x2CBMQEuxu9jcDGv4OPFmcfNfbONHOmeLhebWIqSrAueZP9McDHC+4841oEXmLQaSdvZ3i0gEf72yQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oddos\\source\\repos\\n0tFlix\\Subtitles\\Jellyfin.Plugin.Addic7ed\\Addic7ed-subtitles\\n0tFlix.Subtitles.Addic7ed.csproj",
+  "projectFilePath": "E:\\Git\\n0tFlix.Subtitles.Addic7ed\\n0tFlix.Subtitles.Addic7ed.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oddos\\.nuget\\packages\\jellyfin.common\\10.6.0\\jellyfin.common.10.6.0.nupkg.sha512",
     "C:\\Users\\oddos\\.nuget\\packages\\jellyfin.controller\\10.6.0\\jellyfin.controller.10.6.0.nupkg.sha512",
